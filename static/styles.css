@@ -1,0 +1,16 @@
+body {
+  padding-top: 70px;
+}
+.container {
+  position: relative;
+}
+.sort-order {
+  right: 15px;
+  width: auto;
+  position: absolute;
+}
+.footer {
+  padding: 15px 0;
+  margin-top: 50px;
+  border-top: 1px solid #ddd;
+}
